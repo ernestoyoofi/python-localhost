@@ -69,6 +69,9 @@ nav .nav-link select {
   background-color: #ededed;
   overflow: scroll;
 }
+.readme .tag pre::selection {
+  background-color: rgba(0,0,0,0.30);
+}
 .readme .tag pre .cmd {
   font-style: italic;
 }
@@ -109,4 +112,8 @@ nav .nav-link select {
 }
 .readme .tag h4:hover .fa-link {
   display: inline;
+}
+footer {
+  padding: 12px 8px 12px 8px;
+  background-color: #dfdfdf;
 }
