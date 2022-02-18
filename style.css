@@ -23,6 +23,7 @@ nav {
 }
 nav .nav-link {
   padding: 7px;
+  color: white;
 }
 nav .nav-link a {
   color: white;
